@@ -14,8 +14,10 @@ HyperText Markup Language, 하이퍼텍스트 마크업 언어
 
 ## 블럭 레벨 요소(Block level element)와 인라인 레벨 요소(Inline level element)
 - 블록 레벨 요소는 아래 이미지처럼 앞 뒤 요소 사이에 새로운 줄을 만들고 나타낸다. 머리말, 목록, 메뉴, 꼬리말 등을 표현할 수 있다. 블록 레벨 요소는 인라인 레벨 요소 내에 포함될 수 없다.
+
 ![Block Level Element](./images/Block_level_element.png)
 - 인라인 레벨 요소는 항상 블록 레벨 요소 내에 포함되어 있다. 블록 레벨 요소처럼 단락을 표현하기보다 문장, 단어 등을 표현한다. 인라인 레벨 요소는 아래 이미지처럼 새로운 줄을 만들지 않는다.
+
 ![Inline Level Element](./images/Inline_level_element.png)
 
 ## 속성 (Attributes)
